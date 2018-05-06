@@ -1,0 +1,7 @@
+D:\vs_csharp_chen\pushBoxFinal\bin\Debug\pushBoxFinal.exe.config
+D:\vs_csharp_chen\pushBoxFinal\bin\Debug\pushBoxFinal.exe
+D:\vs_csharp_chen\pushBoxFinal\bin\Debug\pushBoxFinal.pdb
+D:\vs_csharp_chen\pushBoxFinal\obj\Debug\pushBoxFinal.csprojResolveAssemblyReference.cache
+D:\vs_csharp_chen\pushBoxFinal\obj\Debug\pushBoxFinal.csproj.CoreCompileInputs.cache
+D:\vs_csharp_chen\pushBoxFinal\obj\Debug\pushBoxFinal.exe
+D:\vs_csharp_chen\pushBoxFinal\obj\Debug\pushBoxFinal.pdb
